@@ -1,0 +1,31 @@
+Item,Price,Category,Profit,Cost
+Coffee,2.25,Drinks,1.8,0.45
+Bread,7.5,Bakery,3,4.5
+Tea,3,Drinks,2.4,0.6
+Cake,5.5,Dessert,2.2,3.3
+Pastry,3.55,Bakery,1.42,2.13
+NONE,0,,0,0
+Sandwich,6.75,Meals,4.05,2.7
+Medialuna,3.5,Bakery,1.4,2.1
+Hot chocolate,3.7,Drinks,2.96,0.74
+Cookies,3,Dessert,1.2,1.8
+Brownie,3.25,Dessert,1.3,1.95
+Farm House,6.25,Meals,3.75,2.5
+Muffin,3.55,Bakery,1.42,2.13
+Juice ,1.75,Drinks,1.4,0.35
+Alfajores,3.75,Dessert,1.5,2.25
+Soup,4.75,Meals,2.85,1.9
+Scone ,3.55,Bakery,1.42,2.13
+Toast,2.5,Bakery,1,1.5
+Scandinavian,4.25,Meals,2.55,1.7
+Truffles,5,Dessert,2,3
+Coke,1.75,Drinks,1.4,0.35
+Spanish Brunch,7.25,Meals,4.35,2.9
+Fudge,8,Dessert,3.2,4.8
+Baguette,6,Bakery,2.4,3.6
+Jam,7,Other,3.5,3.5
+Tiffin,5,Other,2.5,2.5
+Mineral water,2,Drinks,1.6,0.4
+Jammie Dodgers,3,Other,1.5,1.5
+Chicken Stew,4.75,Meals,2.85,1.9
+Hearty & Seasonal,4.75,Other,2.375,2.375
